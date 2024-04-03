@@ -14,7 +14,7 @@ const Intro2 = ({ sliderRef }) => {
               </div>
               <h1 className="mb-10 fw-600"><span className='color-font'>Elite Mwungere</span>, Crafting Solutions.</h1>
               <p>
-                As a seasoned full-stack developer, I specialize in crafting innovative solutions that drive success. Let's build something remarkable together.
+                As a seasoned full-stack developer, I specialize in crafting innovative solutions that drive success. Let&lsquo;s build something remarkable together.
               </p>
 
               <Link

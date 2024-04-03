@@ -9,7 +9,7 @@ const PagesHeader = () => {
           <div className="col-lg-10">
             <div className="cont mt-100 mb-50 text-center">
               <h1 className="color-font fw-700">
-                I'm a dedicated creative bursting with talent, experience, and passion for what I do.
+                I&lsquo;m a dedicated creative developer bursting with talent, experience, and passion for what I do.
               </h1>
 
             </div>

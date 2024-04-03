@@ -24,13 +24,13 @@ const MinimalArea = () => {
             </div>
           </div>
           <div className="col-lg-6 valign">
-            <div class="content pt-0">
-              <h4 class="wow color-font">About Me.</h4>
-              <p class="wow txt" data-splitting>
+            <div className="content pt-0">
+              <h4 className="wow color-font">About Me.</h4>
+              <p className="wow txt" data-splitting>
                 I am a creative individual, passionate about advertising and ranked among the finest in the US. I cultivate smart ideas for start-ups and seasoned players alike.
               </p>
-              <ul class="feat">
-                <li class="wow fadeInUp" data-wow-delay=".2s">
+              <ul className="feat">
+                <li className="wow fadeInUp" data-wow-delay=".2s">
                   <h6>
                     <span>1</span> My Mission
                   </h6>
@@ -38,7 +38,7 @@ const MinimalArea = () => {
                     My mission is to deliver impactful solutions that resonate with audiences, leveraging my expertise in the field.
                   </p>
                 </li>
-                <li class="wow fadeInUp" data-wow-delay=".4s">
+                <li className="wow fadeInUp" data-wow-delay=".4s">
                   <h6>
                     <span>2</span> My Goals
                   </h6>
@@ -46,7 +46,7 @@ const MinimalArea = () => {
                     My goals are to continuously innovate, exceed client expectations, and drive meaningful results through my work.
                   </p>
                 </li>
-                <li class="wow fadeInUp" data-wow-delay=".6s">
+                <li className="wow fadeInUp" data-wow-delay=".6s">
                   <h6>
                     <span>3</span> Why Me?
                   </h6>
