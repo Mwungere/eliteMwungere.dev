@@ -2,25 +2,25 @@
     {
         "id": 1,
         "icon": "pe-7s-vector",
-        "title": "Product Design",
-        "content": "Our skilled team specializes in creating innovative and user-friendly product designs to meet your unique requirements."
+        "title": "UI Design",
+        "content": "I specialize in crafting innovative and user-friendly product designs tailored to your unique requirements."
     },
     {
         "id": 2,
         "icon": "pe-7s-phone",
         "title": "Web & Mobile Development",
-        "content": "With a focus on cutting-edge technologies, we develop responsive and seamless web and mobile applications tailored to your business needs."
+        "content": "With a focus on cutting-edge technologies, I develop responsive and seamless web and mobile applications to elevate your online presence."
     },
     {
         "id": 3,
         "icon": "pe-7s-link",
-        "title": "Blockchain Development",
-        "content": "Explore the potential of blockchain technology with our experienced developers, ensuring secure and efficient solutions for your projects."
+        "title": "Blockchain Integration",
+        "content": "Explore the potential of blockchain technology with my expertise, ensuring secure and efficient solutions for your projects."
     },
     {
         "id": 4,
         "icon": "pe-7s-display1",
-        "title": "AI Model Development & Training",
-        "content": "Harness the power of artificial intelligence as we craft and train advanced models to enhance your systems, providing intelligent solutions for your business challenges."
+        "title": "AI Model Development",
+        "content": "Harness the power of artificial intelligence as I craft and train advanced models to provide intelligent solutions for your business challenges."
     }
 ]

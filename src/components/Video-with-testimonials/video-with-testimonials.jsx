@@ -74,8 +74,8 @@ const VideoWithTestimonials = () => {
                   <div className="item">
                     <p>
                       I had the privilege of collaborating with an exceptional
-                      team of technical experts whose passion and dedication
-                      exceeded expectations. Their innovative thinking and
+                      technical expert whose passion and dedication
+                      exceeded expectations. His innovative thinking and
                       cohesive approach not only navigated challenges seamlessly
                       but also ensured the resounding success of the project.
                     </p>
@@ -97,7 +97,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Partnering with a dynamic collective of technical
+                      Partnering with a dynamic collective team of technical
                       visionaries was a transformative experience. Their
                       unparalleled expertise, fueled by a shared commitment to
                       excellence, not only conquered challenges but also
@@ -121,10 +121,9 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                      Their profound expertise and relentless pursuit of
+                      His profound expertise and relentless pursuit of
                       perfection not only conquered challenges but also sculpted
-                      the project into a masterpiece. This formidable collective
-                      is not just a team; they are trailblazers of innovation
+                      the project into a masterpiece. He is a trailblazer of innovation
                       and excellence.
                     </p>
                     <div className="info">

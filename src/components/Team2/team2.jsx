@@ -9,10 +9,10 @@ const Team2 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Our Team
+                Teams
               </h6>
               <h3 className="wow color-font">
-                An original team of creators designers &amp; dreamers.
+                Recent Team I Have Worked With.
               </h3>
             </div>
           </div>

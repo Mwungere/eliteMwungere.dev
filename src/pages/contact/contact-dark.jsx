@@ -40,8 +40,7 @@ const Contact = () => {
         <ContactForm />
         <div className="map" id="ieatmaps">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512026.168698884!2d-124.60412862328131!3d37.15982571269164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20USA!5e0!3m2!1sen!2srw!4v1710312534713!5m2!1sen!2srw"
-            loading="lazy"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127601.78934008218!2d30.044843409833!3d-1.929597034375808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca4258ed8e797%3A0xf32b36a5411d0bc8!2sKigali!5e0!3m2!1sen!2srw!4v1711983580025!5m2!1sen!2srw"
             referrerpolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>

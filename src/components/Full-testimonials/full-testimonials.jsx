@@ -119,7 +119,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    I would highly recommend Vie Digital. I worked with the team
+                    I would highly recommend Elite. I worked with him
                     on an animation for our ‘Click &amp; Collect’ service.
                   </p>
                 </div>
@@ -140,7 +140,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                  Fantastic work! The team understood my vision perfectly and delivered exceptional results.
+                  Fantastic work! Elite understood my vision perfectly and delivered exceptional results.
                   </p>
                 </div>
                 <div className="item">
@@ -160,7 +160,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                  Highly recommend! The agency was responsive, proactive, and delivered beyond expectations
+                  Highly recommend! Mwungere was responsive, proactive, and delivered beyond expectations
                   </p>
                 </div>
                 <div className="item">

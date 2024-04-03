@@ -18,22 +18,22 @@ const Footer = ({ hideBGCOLOR }) => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <h6>Official Address</h6>
+                    <p>Kigali, Kigali City, Rwanda</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
-                    <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <h6>Email Me</h6>
+                    <p>mwungereelite56@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
-                    <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <h6>Call Me</h6>
+                    <p>+250793095605</p>
                   </div>
                 </li>
               </ul>
@@ -72,12 +72,7 @@ const Footer = ({ hideBGCOLOR }) => {
                     </div>
                   </li>
                 ))}
-                <li>
-                  <div className="subscribe">
-                    <input type="text" placeholder="Type Your Email" />
-                    <span className="subs pe-7s-paper-plane"></span>
-                  </div>
-                </li>
+
               </ul>
             </div>
           </div>
@@ -87,28 +82,21 @@ const Footer = ({ hideBGCOLOR }) => {
                 <img src={appData.lightLogo} alt="" />
               </div>
               <div className="social">
-                <a href="#0">
-                  <i className="fab fa-facebook-f"></i>
+                <a target="blank" href="https://www.linkedin.com/in/mwungere-elite-050002263/">
+                  <i className="fab fa-linkedin"></i>
                 </a>
-                <a href="#0">
+                <a target="blank" href="https://twitter.com/EliteMwungere">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#0">
+                <a target="blank" href="https://github.com/Mwungere">
+                <i className="fab fa-github"></i>
+                </a>
+                <a target="blank" href="https://www.instagram.com/elilay56/">
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a href="#0">
-                  <i className="fab fa-youtube"></i>
-                </a>
+
               </div>
-              <div className="copy-right">
-                <p>
-                  © 2022, Vie Template. Made with passion by
-                  <Link href="https://themeforest.net/user/themescamp/portfolio">
-                    <a target="_blank">ThemesCamp</a>
-                  </Link>
-                  .
-                </p>
-              </div>
+
             </div>
           </div>
         </div>

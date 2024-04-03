@@ -18,16 +18,16 @@ const Team = () => {
           <div className="col-lg-5 valign">
             <div className="content wow fadeInUp md-mb30" data-wow-delay=".5s">
               <div className="sub-title">
-                <h6>Our Staff</h6>
+                <h6>Recent Team</h6>
                 <span></span>
                 <span></span>
                 <span></span>
               </div>
               <h3 className="co-tit mb-15">
-                We help to create visual strategies.
+                We helped create visual strategies.
               </h3>
               <p>
-                We are Vie. We create award-winning websites, remarkable brands
+                We created award-winning websites, remarkable brands
                 and cutting-edge apps.Nullam imperdie.
               </p>
               <div className="skills-box mt-40">

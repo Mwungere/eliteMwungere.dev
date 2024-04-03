@@ -11,10 +11,9 @@ const Blogs2 = () => {
           <div className="col-lg-4">
             <div className="head md-mb50">
               <h6 className="back-color">Get The Latest News</h6>
-              <h3>What Our Trending News.</h3>
+              <h3>What are Trending News.</h3>
               <p>
-                We provide company and finance service for startups and company
-                business.
+                Get the trending Tech news here
               </p>
               <Link href="/blog/blog-dark">
                 <a>

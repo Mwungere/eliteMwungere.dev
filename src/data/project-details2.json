@@ -278,286 +278,284 @@
     }
   }
   ,
-  {
-    "id": 5,
-    "title": { "small": "e-commerce", "big": "Elevating online retail." },
-    "clientURLLink": "#",
-    "projectHeaderImage": "/img/portfolio/prj5/bg1.jpg",
-    "videoLink": "https://vimeo.com/127203263",
-    "clientURLName": "Amazon",
-    "date": "12 September 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "Web Design",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "E-commerce",
-        "link": "#"
-      }
-    ],
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Elegant",
-        "link": "#"
-      },
-      {
-        "id": 4,
-        "name": "Responsive",
-        "link": "#"
-      }
-    ],
-    "intro": {
-      "content": "Discover the future of online retail with our latest e-commerce project. At [Your Agency Name], we blend cutting-edge design with seamless functionality to create an unparalleled shopping experience. Explore how we've revolutionized the digital storefront and elevated the e-commerce landscape.",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Revolutionizing online retail"
+    {
+        "id": 5,
+        "title": { "small": "e-commerce", "big": "Elevating online retail." },
+        "clientURLLink": "#",
+        "projectHeaderImage": "/img/portfolio/prj5/bg1.jpg",
+        "videoLink": "https://vimeo.com/127203263",
+        "clientURLName": "Amazon",
+        "date": "12 September 2022",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Web Design",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "E-commerce",
+                "link": "#"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Minimal",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Elegant",
+                "link": "#"
+            },
+            {
+                "id": 4,
+                "name": "Responsive",
+                "link": "#"
+            }
+        ],
+        "intro": {
+            "content": "Explore the future of online retail through my latest e-commerce project. Blending cutting-edge design with seamless functionality, I have revolutionized the digital storefront and elevated the e-commerce landscape. Join me in crafting the ultimate shopping experience.",
+            "spmList": [
+                {
+                    "id": 1,
+                    "name": "Revolutionizing online retail"
+                },
+                {
+                    "id": 2,
+                    "name": "Setting new standards for e-commerce design"
+                },
+                {
+                    "id": 3,
+                    "name": "Crafting seamless shopping experiences"
+                },
+                {
+                    "id": 4,
+                    "name": "Elevating the digital storefront"
+                }
+            ]
         },
-        {
-          "id": 2,
-          "name": "Setting new standards for e-commerce design"
-        },
-        {
-          "id": 3,
-          "name": "Crafting seamless shopping experiences"
-        },
-        {
-          "id": 4,
-          "name": "Elevating the digital storefront"
+        "gallery": [
+            "/img/portfolio/prj5/experience.jpeg",
+            "/img/portfolio/prj5/rev.jpeg",
+            "/img/portfolio/prj5/fore.jpeg",
+            "/img/portfolio/prj5/standards.png",
+            "/img/portfolio/prj5/bg3.jpg"
+        ],
+        "description": {
+            "content": "My e-commerce project showcases expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join me in redefining the future of online retail."
         }
-      ]
     },
-    "gallery": [
-      "/img/portfolio/prj5/experience.jpeg",
-      "/img/portfolio/prj5/rev.jpeg",
-      "/img/portfolio/prj5/fore.jpeg",
-      "/img/portfolio/prj5/standards.png",
-      "/img/portfolio/prj5/bg3.jpg"
-    ],
-    "description": {
-      "content": "Our e-commerce project showcases our expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join us in redefining the future of online retail."
-    }
-  }
-  ,
-  {
-    "id": 6,
-    "title": { "small": "e-commerce", "big": "Elevating online retail." },
-    "clientURLLink": "#",
-    "projectHeaderImage": "https://geniusee.com/storage/app/media/blog104/blog104_6.jpg",
-    "videoLink": "https://vimeo.com/127203263",
-    "clientURLName": "Amazon",
-    "date": "12 September 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "Web Design",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "E-commerce",
-        "link": "#"
-      }
-    ],
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Elegant",
-        "link": "#"
-      },
-      {
-        "id": 4,
-        "name": "Responsive",
-        "link": "#"
-      }
-    ],
-    "intro": {
-      "content": "Discover the future of online retail with our latest e-commerce project. At [Your Agency Name], we blend cutting-edge design with seamless functionality to create an unparalleled shopping experience. Explore how we've revolutionized the digital storefront and elevated the e-commerce landscape.",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Revolutionizing online retail"
+    {
+        "id": 6,
+        "title": { "small": "e-commerce", "big": "Elevating online retail." },
+        "clientURLLink": "#",
+        "projectHeaderImage": "https://geniusee.com/storage/app/media/blog104/blog104_6.jpg",
+        "videoLink": "https://vimeo.com/127203263",
+        "clientURLName": "Amazon",
+        "date": "12 September 2022",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Web Design",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "E-commerce",
+                "link": "#"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Minimal",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Elegant",
+                "link": "#"
+            },
+            {
+                "id": 4,
+                "name": "Responsive",
+                "link": "#"
+            }
+        ],
+        "intro": {
+            "content": "Explore the future of online retail through my latest e-commerce project. Blending cutting-edge design with seamless functionality, I have revolutionized the digital storefront and elevated the e-commerce landscape. Join me in crafting the ultimate shopping experience.",
+            "spmList": [
+                {
+                    "id": 1,
+                    "name": "Revolutionizing online retail"
+                },
+                {
+                    "id": 2,
+                    "name": "Setting new standards for e-commerce design"
+                },
+                {
+                    "id": 3,
+                    "name": "Crafting seamless shopping experiences"
+                },
+                {
+                    "id": 4,
+                    "name": "Elevating the digital storefront"
+                }
+            ]
         },
-        {
-          "id": 2,
-          "name": "Setting new standards for e-commerce design"
-        },
-        {
-          "id": 3,
-          "name": "Crafting seamless shopping experiences"
-        },
-        {
-          "id": 4,
-          "name": "Elevating the digital storefront"
+        "gallery": [
+            "/img/portfolio/prj6/rev.jpeg",
+            "/img/portfolio/prj6/exp.jpeg",
+            "/img/portfolio/prj6/standards.jpeg",
+            "/img/portfolio/prj6/fore.jpeg",
+            "https://geniusee.com/storage/app/media/blog104/blog104_6.jpg"
+        ],
+        "description": {
+            "content": "My e-commerce project showcases expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join me in redefining the future of online retail."
         }
-      ]
     },
-    "gallery": [
-      "/img/portfolio/prj6/rev.jpeg",
-      "/img/portfolio/prj6/exp.jpeg",
-      "/img/portfolio/prj6/standards.jpeg",
-      "/img/portfolio/prj6/fore.jpeg",
-      "https://geniusee.com/storage/app/media/blog104/blog104_6.jpg"
-    ],
-    "description": {
-      "content": "Our e-commerce project showcases our expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join us in redefining the future of online retail."
-    }
-  }
-  ,
-  {
-    "id": 7,
-    "title": { "small": "Tasker", "big": "Empowering Productivity On-the-Go" },
-    "clientURLLink": "#",
-    "projectHeaderImage": "/img/portfolio/prj7/bg2.jpg",
-    "videoLink": "https://vimeo.com/127203263",
-    "clientURLName": "Amazon",
-    "date": "12 September 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "Mobile Dev",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Task-tracker",
-        "link": "#"
-      }
-    ],
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Elegant",
-        "link": "#"
-      },
-      {
-        "id": 4,
-        "name": "Responsive",
-        "link": "#"
-      }
-    ],
-    "intro": {
-      "content": "Embark on a journey of efficiency with our Mobile App Prototype, designed to streamline task tracking and boost productivity wherever you are. With intuitive features and seamless functionality, our prototype revolutionizes the way you manage tasks on your mobile device.",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Seamless task tracking on-the-go"
+    {
+        "id": 7,
+        "title": { "small": "Tasker", "big": "Empowering Productivity On-the-Go" },
+        "clientURLLink": "#",
+        "projectHeaderImage": "/img/portfolio/prj7/bg2.jpg",
+        "videoLink": "https://vimeo.com/127203263",
+        "clientURLName": "Amazon",
+        "date": "12 September 2022",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Mobile Dev",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Task-tracker",
+                "link": "#"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Minimal",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Elegant",
+                "link": "#"
+            },
+            {
+                "id": 4,
+                "name": "Responsive",
+                "link": "#"
+            }
+        ],
+        "intro": {
+            "content": "Embark on a journey of efficiency with my Mobile App Prototype, designed to streamline task tracking and boost productivity wherever you are. With intuitive features and seamless functionality, my prototype revolutionizes the way you manage tasks on your mobile device.",
+            "spmList": [
+                {
+                    "id": 1,
+                    "name": "Seamless task tracking on-the-go"
+                },
+                {
+                    "id": 2,
+                    "name": "Real-time updates and notifications"
+                },
+                {
+                    "id": 3,
+                    "name": "Customizable task organization for personalized workflow"
+                },
+                {
+                    "id": 4,
+                    "name": "Enhanced productivity with easy access to task insights"
+                }
+            ]
         },
-        {
-          "id": 2,
-          "name": "Real-time updates and notifications"
-        },
-        {
-          "id": 3,
-          "name": "Customizable task organization for personalized workflow"
-        },
-        {
-          "id": 4,
-          "name": "Enhanced productivity with easy access to task insights"
+        "gallery": [
+            "/img/portfolio/prj7/rev.jpeg",
+            "/img/portfolio/prj7/exp.jpeg",
+            "/img/portfolio/prj7/standards.jpeg",
+            "/img/portfolio/prj7/fore.jpeg",
+            "https://i.pinimg.com/736x/47/cc/38/47cc381808321e149adf815d3701eb8d.jpg"
+        ],
+        "description": {
+            "content": "My e-commerce project showcases expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join me in redefining the future of online retail."
         }
-      ]
     },
-    "gallery": [
-      "/img/portfolio/prj7/rev.jpeg",
-      "/img/portfolio/prj7/exp.jpeg",
-      "/img/portfolio/prj7/standards.jpeg",
-      "/img/portfolio/prj7/fore.jpeg",
-      "https://i.pinimg.com/736x/47/cc/38/47cc381808321e149adf815d3701eb8d.jpg"
-    ],
-    "description": {
-      "content": "Our e-commerce project showcases our expertise in designing user-friendly interfaces and optimizing conversions. From sleek product displays to secure payment gateways, every aspect is meticulously crafted to enhance the customer journey. Join us in redefining the future of online retail."
-    }
-  }
-  ,
-  {
-    "id": 8,
-    "title": { "small": "Modychat", "big": "Connecting People, One Message at a Time" },
-    "clientURLLink": "#",
-    "projectHeaderImage": "/img/portfolio/prj8/bg1.jpg",
-    "videoLink": "https://vimeo.com/127203263",
-    "clientURLName": "Amazon",
-    "date": "12 September 2022",
-    "categories": [
-      {
-        "id": 1,
-        "name": "Mobile Design",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Chat",
-        "link": "#"
-      }
-    ],
-    "tags": [
-      {
-        "id": 1,
-        "name": "Minimal",
-        "link": "#"
-      },
-      {
-        "id": 3,
-        "name": "Elegant",
-        "link": "#"
-      },
-      {
-        "id": 4,
-        "name": "Responsive",
-        "link": "#"
-      }
-    ],
-    "intro": {
-      "content": "Embark on a seamless communication journey with our Android Development project, dedicated to crafting a dynamic chat app experience. Designed for the modern user, our app revolutionizes how you connect with friends, family, and colleagues on your Android device.",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Instant messaging for real-time conversations"
+    {
+        "id": 8,
+        "title": { "small": "Modychat", "big": "Connecting People, One Message at a Time" },
+        "clientURLLink": "#",
+        "projectHeaderImage": "/img/portfolio/prj8/bg1.jpg",
+        "videoLink": "https://vimeo.com/127203263",
+        "clientURLName": "Amazon",
+        "date": "12 September 2022",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Mobile Design",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Chat",
+                "link": "#"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Minimal",
+                "link": "#"
+            },
+            {
+                "id": 3,
+                "name": "Elegant",
+                "link": "#"
+            },
+            {
+                "id": 4,
+                "name": "Responsive",
+                "link": "#"
+            }
+        ],
+        "intro": {
+            "content": "Embark on a seamless communication journey with my Android Development project, dedicated to crafting a dynamic chat app experience. Designed for the modern user, my app revolutionizes how you connect with friends, family, and colleagues on your Android device.",
+            "spmList": [
+                {
+                    "id": 1,
+                    "name": "Instant messaging for real-time conversations"
+                },
+                {
+                    "id": 2,
+                    "name": "User-friendly interface for effortless navigation"
+                },
+                {
+                    "id": 3,
+                    "name": "Multimedia support for rich communication"
+                },
+                {
+                    "id": 4,
+                    "name": "Secure encryption to protect your privacy"
+                }
+            ]
         },
-        {
-          "id": 2,
-          "name": "User-friendly interface for effortless navigation"
-        },
-        {
-          "id": 3,
-          "name": "Multimedia support for rich communication"
-        },
-        {
-          "id": 4,
-          "name": "Secure encryption to protect your privacy"
+        "gallery": [
+            "/img/portfolio/prj8/rev.jpeg",
+            "/img/portfolio/prj8/exp.jpeg",
+            "/img/portfolio/prj8/standards.jpeg",
+            "/img/portfolio/prj8/fore.jpeg",
+            "https://i.pinimg.com/736x/ff/a7/c0/ffa7c00a341b27b9197d112b73e2bd6b.jpg"
+        ],
+        "description": {
+            "content": "My Android chat app redefines communication, blending advanced tech with intuitive design. Share messages, photos, and videos effortlessly, ensuring fast, secure, and enjoyable conversations. Stay connected with ease, wherever you go."
         }
-      ]
-    },
-    "gallery": [
-      "/img/portfolio/prj8/rev.jpeg",
-      "/img/portfolio/prj8/exp.jpeg",
-      "/img/portfolio/prj8/standards.jpeg",
-      "/img/portfolio/prj8/fore.jpeg",
-      "https://i.pinimg.com/736x/ff/a7/c0/ffa7c00a341b27b9197d112b73e2bd6b.jpg"
-    ],
-    "description": {
-      "content": "Our Android chat app redefines communication, blending advanced tech with intuitive design. Share messages, photos, and videos effortlessly, ensuring fast, secure, and enjoyable conversations. Stay connected with ease, wherever you go."
     }
-  }
-  ,
+
+,
   {
     "id": 9,
     "title": { "small": "Find skilled mechanics", "big": "anytime, anywhere." },

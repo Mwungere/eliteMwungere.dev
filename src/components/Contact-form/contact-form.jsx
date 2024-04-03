@@ -1,6 +1,8 @@
 import React from "react";
 import ContactFromDate from "../../data/sections/form-info.json";
 import { Formik, Form, Field } from "formik";
+import { useFormikContext } from 'formik';
+
 
 const ContactForm = () => {
   const messageRef = React.useRef(null);
@@ -27,22 +29,40 @@ const ContactForm = () => {
                   email: "",
                   message: "",
                 }}
-                onSubmit={async (values) => {
-                  await sendMessage(500);
-                  alert(JSON.stringify(values, null, 2));
-                  // show message
-
-                  messageRef.current.innerText =
-                    "Your Message has been successfully sent. I will contact you soon.";
-                  // Reset the values
-                  values.name = "";
-                  values.email = "";
-                  values.message = "";
-                  // clear message
-                  setTimeout(() => {
-                    messageRef.current.innerText = ''
-                  }, 2000)
+                onSubmit={async (values, { resetForm }) => {
+                  try {
+                    // Send form data to the specified URL
+                    const response = await fetch("https://getform.io/f/jbwxqroa", {
+                      method: "POST",
+                      headers: {
+                        "Content-Type": "application/json",
+                      },
+                      body: JSON.stringify(values),
+                    });
+                
+                    // Check if the request was successful
+                    if (response.ok) {
+                      // Show success message
+                      messageRef.current.innerText =
+                        "Your Message has been successfully sent. I will contact you soon.";
+                      
+                      // Reset the form values after successful submission
+                      resetForm();
+                      
+                      // Clear message after 2 seconds
+                      setTimeout(() => {
+                        messageRef.current.innerText = '';
+                      }, 2000);
+                    } else {
+                      // If request fails, handle the error
+                      throw new Error("Failed to send message");
+                    }
+                  } catch (error) {
+                    // Handle any errors
+                    console.error("Error sending message:", error);
+                  }
                 }}
+
               >
                 {({ errors, touched }) => (
                   <Form id="contact-form">
@@ -112,18 +132,19 @@ const ContactForm = () => {
                 </h6>
               </div>
               <div className="social mt-50">
-                <a href="#0" className="icon">
-                  <i className="fab fa-facebook-f"></i>
+                <a target="blank" href="https://www.linkedin.com/in/mwungere-elite-050002263/">
+                  <i className="fab fa-linkedin"></i>
                 </a>
-                <a href="#0" className="icon">
+                <a target="blank" href="https://twitter.com/EliteMwungere">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#0" className="icon">
-                  <i className="fab fa-pinterest"></i>
+                <a target="blank" href="https://github.com/Mwungere">
+                <i className="fab fa-github"></i>
                 </a>
-                <a href="#0" className="icon">
-                  <i className="fab fa-behance"></i>
+                <a target="blank" href="https://www.instagram.com/elilay56/">
+                  <i className="fab fa-instagram"></i>
                 </a>
+
               </div>
             </div>
           </div>

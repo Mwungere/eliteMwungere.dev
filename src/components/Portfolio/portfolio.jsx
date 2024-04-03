@@ -118,7 +118,7 @@ const Portfolio = ({ grid, filterPosition }) => {
                 Portfolio
               </h6>
               <h3 className="wow color-font">
-                Our Recent Web Design &amp; <br /> Some Past Projects.
+                My Recent Web Design &amp; <br /> Some Past Projects.
               </h3>
             </div>
           </div>
